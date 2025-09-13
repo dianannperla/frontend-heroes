@@ -1,3 +1,3 @@
-export { default as Button } from './components/Button';
-export { default as Modal } from './components/Modal';
-export { default as Tooltip } from './components/Tooltip';
+export { Button } from './components/Button';
+export { Modal } from './components/Modal';
+export { Tooltip } from './components/Tooltip';
