@@ -1,0 +1,13 @@
+{
+  "name": "frontend-heroes",
+  "version": "1.0.0",
+  "description": "Một bộ công cụ mạnh mẽ cho phát triển frontend",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "test": "jest"
+  },
+  "keywords": ["frontend", "ui", "components"],
+  "author": "Frontend Heroes Team",
+  "license": "MIT"
+}
