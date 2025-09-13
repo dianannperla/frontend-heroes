@@ -1,7 +1,7 @@
 {
   "name": "frontend-heroes",
   "version": "1.0.0",
-  "description": "A toolkit for modern frontend development practices and workflows",
+  "description": "A comprehensive toolkit for modern frontend development practices and workflows",
   "main": "index.js",
   "scripts": {
     "build": "webpack",
