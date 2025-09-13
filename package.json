@@ -1,7 +1,7 @@
 {
   "name": "frontend-heroes",
   "version": "1.0.0",
-  "description": "Một bộ công cụ mạnh mẽ cho phát triển frontend",
+  "description": "A powerful toolkit for frontend development",
   "main": "index.js",
   "scripts": {
     "build": "webpack",
