@@ -1,10 +1,10 @@
 # Đóng góp vào Frontend Heroes
 
-Chúng tôi hoan nghênh mọi đóng góp từ cộng đồng! Dưới đây là các hướng dẫn để bạn có thể tham gia:
+Chúng tôi hoan nghênh mọi đóng góp từ cộng đồng! Dưới đây là các hướng dẫn cụ thể để bạn có thể tham gia:
 
 1. Fork dự án này.
-2. Tạo một nhánh mới cho tính năng hoặc sửa lỗi của bạn. Hãy đặt tên nhánh một cách mô tả và rõ ràng.
-3. Gửi pull request với mô tả chi tiết về thay đổi của bạn.
+2. Tạo một nhánh mới cho tính năng hoặc sửa lỗi của bạn. Hãy đặt tên nhánh một cách mô tả và rõ ràng để dễ nhận biết.
+3. Gửi pull request với mô tả chi tiết về thay đổi của bạn và lý do vì sao sự thay đổi này là cần thiết.
 
 Cảm ơn bạn đã giúp cải thiện Frontend Heroes!
 
