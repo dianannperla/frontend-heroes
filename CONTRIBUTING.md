@@ -9,3 +9,5 @@ Chúng tôi hoan nghênh mọi đóng góp từ cộng đồng! Dưới đây l�
 Cảm ơn bạn đã giúp cải thiện Frontend Heroes!
 
 **Lưu ý:** Hãy đảm bảo rằng mọi thay đổi đều tuân theo các tiêu chuẩn mã hóa của dự án và được kiểm tra kỹ lưỡng trước khi gửi.
+
+**Hướng dẫn kiên thức bổ sung:** Nếu bạn có bất kỳ câu hỏi nào, đừng ngần ngại liên hệ với chúng tôi qua các kênh hỗ trợ chính thức.
